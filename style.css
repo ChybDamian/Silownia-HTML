@@ -9,6 +9,7 @@ h1{
 	color: #F2EFDC;
 	text-align: center;
 	padding: 10px;
+	
 }
 
 h1:hover{
@@ -26,9 +27,16 @@ h1:hover{
 }
 
 #wrap *{
-
+	margin: 10px 20px;
 }
 
 img{
 	margin: 5px;
+}
+
+.nav{
+	border: 1px solid black;
+	margin: 20px;
+	margin-bottom: 50px;
+	width: 300px;
 }
