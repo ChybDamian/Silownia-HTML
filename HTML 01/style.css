@@ -1,0 +1,42 @@
+body{
+	background-color: #F2EFDC;
+	
+}
+
+h1{
+	margin: 0 auto;
+	background-color: #404040;
+	color: #F2EFDC;
+	text-align: center;
+	padding: 10px;
+	
+}
+
+h1:hover{
+	color: #404040;
+	background-color: #F2EFDC;
+}
+
+#wrap{
+	width: 80%;
+	border: 2px solid black;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px  5px #404040;
+	background-color: white;
+	margin: 0 auto;
+}
+
+#wrap *{
+	margin: 10px 20px;
+}
+
+img{
+	margin: 5px;
+}
+
+.nav{
+	border: 1px solid black;
+	margin: 20px;
+	margin-bottom: 50px;
+	width: 300px;
+}
